@@ -2,3 +2,4 @@ numpy
 tensorflow
 torch
 jupyter-notebook
+matplotlib
